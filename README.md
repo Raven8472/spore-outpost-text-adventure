@@ -64,7 +64,7 @@ Your status updates each turn, showing your location, inventory, and any item pr
 
 ## Room Layout Diagram
 
-![Room Diagram](assets/Room Diagrams.png)
+![Room Diagram](assets/Room\ Diagrams.png)
 
 
 
