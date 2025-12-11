@@ -1,30 +1,65 @@
-# Spore Outpost: Data Recovery Protocol  
-A Python text-based adventure game created as part of the IT-140 course at Southern New Hampshire University.
+# Spore Outpost: Data Recovery Protocol
 
-This project features a fully navigable map, item collection system, win/lose conditions, and narrative elements.  
-The player explores a remote research outpost, gathers critical data pads, and attempts to survive a dangerous organism lurking in the lower levels.
+A Python text-based adventure game created for the IT-140 course at Southern New Hampshire University.  
+This project demonstrates core scripting concepts including user input handling, room navigation, dictionaries, functions, and basic game logic.
 
----
+## Project Overview
 
-## Story Overview
+Contact with the research team at Outpost Epsilon has been lost. As the last available investigator, your mission is to:
 
-Contact with the research team has been lost.  
+- Recover all data pads and vital equipment  
+- Navigate through multiple rooms in the research outpost  
+- Avoid the mutated spore organism in the subterranean cavern  
+- Upload the research data to secure continued funding for the project  
 
-As the last available investigator, your mission is to:
-
-- Recover all **data pads** and vital equipment  
-- Navigate through **multiple rooms** in the outpost  
-- Avoid the mutated **spore organism** in the subterranean cavern  
-- Upload the team's research to secure future funding and save the project  
-
-But be careful—your movements and pheromones may not go unnoticed.
-
----
+The game runs entirely in the terminal using simple text commands.
 
 ## Gameplay
 
-The game takes place entirely in the terminal.  
-Players enter commands to move between rooms and collect items.
+Enter commands to move or collect items.
 
-### **Movement Commands**
+### Movement Commands
+go North
+go South
+go East
+go West
+
+shell
+Copy code
+
+### Item Command
+get <item name>
+
+shell
+Copy code
+
+### Quit
+quit
+
+markdown
+Copy code
+
+Your status updates each turn, showing your location, inventory, and any item present in the room.
+
+## Features
+
+- Dictionary-driven room navigation  
+- Inventory tracking  
+- Input validation  
+- Win and lose conditions  
+- Clear function organization  
+- Color-coded terminal output  
+
+## Skills Demonstrated
+
+- Python functions  
+- Dictionaries and structured data  
+- Loops and branching logic  
+- Debugging and refinement  
+- Basic narrative design  
+
+## Author
+
+**Dakota Leahy**  
+Text adventure game for IT-140: Introduction to Scripting.
 
