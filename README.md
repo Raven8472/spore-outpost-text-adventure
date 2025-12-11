@@ -56,7 +56,17 @@ Your status updates each turn, showing your location, inventory, and any item pr
 - Dictionaries and structured data  
 - Loops and branching logic  
 - Debugging and refinement  
-- Basic narrative design  
+- Basic narrative design
+
+  ## Gameplay Example
+
+![Gameplay Screenshot](assets/GamePlay.png)
+
+## Room Layout Diagram
+
+![Room Diagram](assets/Room Diagrams.png)
+
+
 
 ## Author
 
