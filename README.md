@@ -24,20 +24,17 @@ go South
 go East
 go West
 
-shell
-Copy code
+
 
 ### Item Command
 get <item name>
 
-shell
-Copy code
+
 
 ### Quit
 quit
 
-markdown
-Copy code
+
 
 Your status updates each turn, showing your location, inventory, and any item present in the room.
 
